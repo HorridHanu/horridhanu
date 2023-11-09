@@ -1,4 +1,4 @@
-[![MasterHead]((https://static.vecteezy.com/system/resources/previews/000/678/463/original/programming-doodle-on-blue-background.jpg))](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hanu</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img aling="centre" title="a title" alt="Alt text" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810)">
