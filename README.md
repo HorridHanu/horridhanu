@@ -1,8 +1,6 @@
-Hey folks! 👋  
-My name is **Hanu**. I'm a second-year **Mechanical Engineering** student at **Delhi Technological University**, with a passion for **software development**—especially **Android**. I love turning complex ideas into simple, functional apps using tools like **Kotlin**, **MVVM**, and **Firebase**.
+# Hey folks! 🐢
+*My name is **Hanu**. I'm a second-year **Mechanical Engineering** student at **Delhi Technological University**, but my heart belongs to **Android development**. I turn complex problems into sleek, user-friendly apps with **Kotlin**, **MVVM**, and **Firebase**—and yes, I’ve mastered the art of debugging while sipping coffee and pretending my app won’t crash in production!*
 
-Check out one of my projects:  
-- **[Glamify Queen](https://github.com/HorridHanu/Glamify-Queen)**: An e-commerce app built with **Java** and **Firebase**, featuring user authentication and real-time database management.
 ## 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HorridHanu&color=blue&style=flat-square)
