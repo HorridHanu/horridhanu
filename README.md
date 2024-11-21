@@ -55,6 +55,6 @@ My name is **Hanu**. I'm a second-year **Mechanical Engineering** student at **D
 ![Profile Views](https://komarev.com/ghpvc/?username=HorridHanu&color=blue&style=flat-square)
 
 <a href="https://github.com/HorridHanu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HorridHanu&show_icons=true&theme=default&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorridHanu&layout=compact&langs_count=6&theme=default" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HorridHanu&show_icons=true&theme=dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorridHanu&layout=compact&langs_count=6&theme=dark" />
 </a>
