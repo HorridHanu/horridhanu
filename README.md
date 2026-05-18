@@ -1,5 +1,5 @@
 # Hey folks! 🐢  
-My name is **Hanu**. I'm a second-year **Mechanical Engineering** student at **Delhi Technological University**, but my heart belongs to **Android development**. I turn complex problems into sleek, user-friendly apps with **Kotlin**, **MVVM**, and **Firebase** - and yes, I’ve mastered the art of debugging while sipping coffee and pretending my app won’t crash in production!
+My name is **Hanu**. I'm a third-year **Mechanical Engineering** student at **Delhi Technological University**, but my heart belongs to **Android development**. I turn complex problems into sleek, user-friendly apps with **Kotlin**, **MVVM**, and **Firebase** - and yes, I’ve mastered the art of debugging while sipping coffee and pretending my app won’t crash in production!
 
 
 ## 🛠️ Tech Stack
